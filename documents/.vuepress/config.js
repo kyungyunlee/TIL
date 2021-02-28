@@ -36,7 +36,7 @@ module.exports = {
       {
         title: 'ETC',
         children: CONST.ETCList
-      }
+      },
     ],
     nav: [{
         text: 'GitHub',

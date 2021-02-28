@@ -2,6 +2,9 @@
 
 http://kyungyunlee.github.io/TIL/
 
+* TIL에서는 배운것 쓰기
+* 잡생각, 글은 ETC에도 포함 
+
 ## 로컬에서 띄우기
 ```bash
 $ yarn
