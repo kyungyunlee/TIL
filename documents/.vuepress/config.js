@@ -35,8 +35,9 @@ module.exports = {
         children: CONST.DataEngineeringList
       },
       {
-        title: 'Books',
-        children: CONST.BooksList
+        title: "Books",
+        path : "/Books/",
+        sidebarDepth:1,
       },
       {
         title: 'ETC',
