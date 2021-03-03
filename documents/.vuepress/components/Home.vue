@@ -43,7 +43,7 @@ h1 {
   font-size: 2rem;
 }
 ul {
-  list-style: none;
+  list-style: inherit !important;
   line-height: 1.5rem;
 }
 
