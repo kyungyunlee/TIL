@@ -23,12 +23,16 @@ module.exports = {
         children: CONST.MILList
       },
       {
-        title: 'Data Mining',
-        children: CONST.DataMiningList
+        title: 'Data Engineering',
+        children: CONST.DataEngineeringList
       },
       {
         title : 'DS and Algorithms',
         children : CONST.DSandAlgorithmsList
+      },
+      {
+        title: 'Functional Programming',
+        children : CONST.FunctionalProgrammingList
       },
       {
         title: "Books",
