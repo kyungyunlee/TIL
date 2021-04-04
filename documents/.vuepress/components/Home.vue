@@ -9,7 +9,7 @@
       <div class="infoContainer">
         <div class="name">Learn something everyday</div>
         <p>Personal study notes, diary, etc.</p>
-        <ul>
+        <ul style="list-style:None;">
           <li>
             <a href="https://kyungyunlee.github.io">Website</a>
           </li>
@@ -43,7 +43,7 @@ h1 {
   font-size: 2rem;
 }
 ul {
-  list-style: inherit !important;
+  list-style: inherit;
   line-height: 1.5rem;
 }
 

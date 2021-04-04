@@ -8,4 +8,6 @@ exports.DSandAlgorithmsList = [
 
 exports.MILList = [
   "MIL/mil-2103.md",
+  "MIL/mil-2104.md",
 ];
+
