@@ -1,14 +1,16 @@
+# Docker 101
+
 **2021.04.04**
 
 ![0_TZfTsYARaJupeCTP](https://tva1.sinaimg.cn/large/008eGmZEgy1gp7rj1mt9sj309c07zweh.jpg)
 
-#### What is a docker? 
+### What is a docker? 
 
 Docker is a platform that makes it easy to develop, ship and run applications on different machines. We have all gone through missing library errors and version incompatibility issues when trying to run some program. Docker alleviates these problems by building "containers" that can contain all the necessary resources to support the application's runtime environment. 
 
 
 
-#### Main idea of docker : containers
+### Main idea of docker : containers
 
 Docker provides OS-level virtualization through containers. 
 
@@ -32,7 +34,7 @@ img src: https://www.aquasec.com/cloud-native-academy/docker-container/
 
 
 
-#### Pros and cons of containers and VMs
+### Pros and cons of containers and VMs
 
 Containers are
 
@@ -50,7 +52,7 @@ Meanwhile, VMs are
 
 
 
-#### How does docker work?
+### How does docker work?
 
 If you want to use docker, you need to first install the docker engine on a machine.
 
@@ -72,7 +74,7 @@ img src: https://docs.docker.com/get-started/overview/
 
 
 
-#### Docker isolation
+### Container isolation 
 
 A container is an isolated environment, so it does not aware of other containers and the host OS. 
 
@@ -102,7 +104,7 @@ docker run -d --cpus=1 --m=10G
 
 
 
-#### Managing multiple containers 
+### Managing multiple containers 
 
 * Docker compose (single machine)
 
